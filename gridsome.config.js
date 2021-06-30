@@ -16,7 +16,7 @@ function addStyleResource (rule) {
 }
 
 module.exports = {
-  siteName: 'Datica Open-Source Compliance Policies',
+  siteName: 'BuyerAssist Open-Source Compliance Policies',
   siteUrl: 'https://policy.datica.com',
   templates: {
     Doc: '/:slug',
